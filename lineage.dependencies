@@ -4,7 +4,7 @@
     "target_path": "device/google/zumapro"
   },
   {
-    "repository": "device/google/caimito-kernel",
+    "repository": "device/google/caimito-kernels/6.1",
     "target_path": "device/google/caimito-kernel",
     "remote": "aosp-caimito"
   }
