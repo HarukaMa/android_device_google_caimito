@@ -1,7 +1,7 @@
 [
   {
-    "repository": "android_device_google_zuma",
-    "target_path": "device/google/zuma"
+    "repository": "android_device_google_zumapro",
+    "target_path": "device/google/zumapro"
   },
   {
     "repository": "device/google/caimito-kernel",

@@ -10,7 +10,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/google/caimito/aosp_caiman.mk)
-$(call inherit-product, device/google/zuma/lineage_common.mk)
+$(call inherit-product, device/google/zumapro/lineage_common.mk)
 
 include device/google/caimito/caiman/device-lineage.mk
 
