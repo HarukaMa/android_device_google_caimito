@@ -43,7 +43,7 @@ function lib_to_package_fixup_vendor_variants() {
 
     case "$1" in
         com.google.edgetpu_app_service-V4-ndk | \
-            com.google.edgetpu_vendor_service-V3-ndk | \
+            com.google.edgetpu_vendor_service-V2-ndk | \
             vendor.google.whitechapel.audio.audioext@4.0 | \
             vendor.google.whitechapel.audio.extension-V2-ndk)
             echo "$1-vendor"
