@@ -14,3 +14,7 @@ vendor.rild.libpath=libsitril.so
 
 # SSR
 vendor.debug.ssrdump.type=sscoredump
+
+persist.service.adb.enable=1                                                    
+persist.service.debuggable=1
+persist.sys.usb.config=mtp,adb

@@ -1085,4 +1085,10 @@ lib64/pixelpowerstats_provider_aidl_interface-cpp.so
 lib64/libexynosutils.so
 lib64/libexynosv4l2.so
 bin/dump/dump_gsc.sh
-
+etc/permissions/android.hardware.location.gps.prebuilt.xml
+etc/res/images/charger/battery_fail.png
+etc/res/images/charger/battery_scale.png
+etc/res/images/charger/main_font.png
+etc/res/values/charger/animation.txt
+etc/mixer_paths_aidl.xml
+lib64/libcodec2_hidl_plugin.so
